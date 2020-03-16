@@ -1,0 +1,16 @@
+{
+  "name": "carrinho-react-babel",
+  "version": "1.0.0",
+  "description": "carrinho em react com babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria de Fatima",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "@babel/preset-react": "^7.8.3"
+  }
+}
